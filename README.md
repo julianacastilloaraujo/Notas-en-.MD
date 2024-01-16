@@ -5,8 +5,8 @@
 # ¿Por qué es importante y cuál es su uso? 💪
 * Es importante destacar con anuncios cada nuevo <strong>update</strong> del proyecto
 * Uso de etiquetas para README.md
-
-# ¿Cuáles son los principales avisos .md?
+  
+# ¿Cuáles son los principales avisos .md? 👩‍💻
 * IMPORTANT (Importante)
 * NOTE (Nota)
 * TIP (Tips)
@@ -23,3 +23,7 @@
 > [!TIP]
 > Practica de tip
 > Este es un tip
+
+> [!WARNING]
+> Practica de warning
+> Esta es una advertencia
